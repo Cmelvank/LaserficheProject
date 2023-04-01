@@ -1,2 +1,2 @@
 # LaserficheProject
-Official GitHub Repository for the W23 ENGG 1420 Laserfiche Project.
+Official GitHub Repository for the W23 ENGG 1420 Laserfiche Project - Team 10.
